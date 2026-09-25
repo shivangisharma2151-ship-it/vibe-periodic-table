@@ -74,4 +74,4 @@ Chat with the built-in AI assistant powered by Google Gemini:
 
 ---
 
-Built with ❤️ by Aryan Sharma
+Built with ❤️ by Shivangi Sharma
