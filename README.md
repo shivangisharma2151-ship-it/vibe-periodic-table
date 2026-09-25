@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/e3726961-4752-4337-8429-313ba7b574f3
 
 ## 📋 Overview
 
-Vibe Period is an interactive, modern periodic table application built with React and Vite. The application provides users with an engaging way to explore chemical elements, their properties, and relationships. It combines beautiful visualizations with educational content to make chemistry more accessible and enjoyable. It features interactive element cards, dynamic visualizations, advanced search and filtering, and a responsive UI for a seamless learning experience.
+Vibe Period is an interactive, modern periodic table application built with React and Vite. The application provides users with an engaging way to explore chemical elements, their properties, and relationships. It combines beautiful visualizations with educational content to make chemistry more accessible and enjoyable. It features interactive element cards, dynamic visualizations.
 
 ## ✨ Key Features
 
